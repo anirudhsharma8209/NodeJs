@@ -1,0 +1,16 @@
+Node :- It is run time enviroment which is used to make the backend stuffs of the web app or applications. Because we can't perform the backend functionalty without the node in javascript.
+
+Server :- Server machines are those machines which is used to send the request and recive the response from the server or that server machine.
+
+Request and Response :- The Request is made by the user from there browser and the response will come from the servers on there browser.
+
+Framework : Bootstrap
+Library : Jquery 
+Run time enviroment : It is used to run your javascript code into the system else from browser.
+
+Npm :- Node package manager
+
+To check the complete node installation use three commands in your system terminal :- 
+node --version :- To check the node version
+npm --version :- To check the package manager version
+npx --version :- To check the npx version
