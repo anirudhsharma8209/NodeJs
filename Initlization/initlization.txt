@@ -1,0 +1,13 @@
+1. npm init :- To initlize the project detail file and answer the question aked by the commands.
+2. create a file called index.js or the file which you pass to the main script to execute the file.
+3. after creating the file use the command to run the file in terminal node <filenam.js> or npm start
+4. npm i nodemon and configure it into the start script
+5. at last write command in terminal npm start and then your file is continously running until to stop the file by pressing ctrl + c.
+
+
+assignment :=
+    1. create npm init file
+    2. name of the project assignment, version, description, author, main (index.js) 
+    3. install nodemon
+    4. configure nodemon
+    5. and run the file and create a object with 5 employee into an array
