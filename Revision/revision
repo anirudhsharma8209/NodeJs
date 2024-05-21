@@ -1,0 +1,10 @@
+1. Npm init (-y) to initlize the node enviroment after this the package.json file is created.
+2. The package.json file is refring to the complete detail about the project.
+3. Install express package by command (npm i express) after this the complete required folder and files will be occur in the revision folder.
+4. Install nodemon for restarting the server. 
+5. Install ejs (Embeded Javascript) by (npm i ejs).
+6. Configure the package.json file with start script or command.
+
+Configure the ejs package
+1. Make views folder in parent directory.
+2. Create your ejs files with the extension called .ejs.
