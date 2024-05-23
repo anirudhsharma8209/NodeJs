@@ -26,14 +26,24 @@
                 <th>
                     Gender
                 </th>
-            </tr>
-            <tr>
-                <!-- <td>
-
-                </td> -->
-            </tr>
+                <th>
+                    Actions
+                </th>
+            </tr>                            
+                <tr class="text-center">
+                    <td>
+                        <%= data[0].name %>
+                    </td>                 
+                    <td>
+                        <%= %> <!-- Syntax for commenting the ejs code or printing the ejs code -->
+                    </td>
+                    <td>
+                        <a href="/delete" class="btn btn-danger btn-sm" >Delete</a>
+                        <a href="/update" class="btn btn-warning btn-sm">Update</a>                    
+                    </td>
+                </tr>                
         </table>
-    </div>
+    </div>  
 </body>
 
 </html>
